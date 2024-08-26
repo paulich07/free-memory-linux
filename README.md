@@ -1,8 +1,7 @@
 # free-memory-linux
 Ways to free some space in linux
 
-
-# 1. Snap Cleanup Script
+# 1. run removeOldSnaps.sh
 
 This bash script automatically removes old, disabled revisions of snap packages on Linux systems. It helps free up disk space by cleaning out outdated snap versions.
 
